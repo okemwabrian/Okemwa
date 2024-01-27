@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+# Okemwa
+>>>>>>> Stashed changes
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -92,4 +96,8 @@
     <a href="tel:0701024127"><i class="fa fa-phone"></i> 0701024127</a>
     <a href="mailto:kevinmokua6@gmail.com"><i class="fa fa-envelope"></i> Email</a>
     <a href="https://wa.me/0701024127"><i class="fa fa-whatsapp"></i> WhatsApp</a>
+<<<<<<< Updated upstream
     <p>&copy;
+=======
+    <p>&copy; 
+>>>>>>> Stashed changes
